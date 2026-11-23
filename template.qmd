@@ -1,0 +1,61 @@
+---
+title: "NOMBRE DE LA PRÁCTICA"
+format:
+  plantilla_laboratorio_ua-typst: default
+author: 
+- "Nombre1 Apellido1"
+- "Nombre2 Apellido2"
+programa: "Porgrama"
+asignatura: "Nombre de la asignatura"
+sede: "Nombre de la sede - Atlántico"
+date: "today"
+linea-seccion: true
+number-sections: false
+#bibliography: references.bib
+---
+
+# Resumen
+
+Indica, de forma resumida, el contenido de la práctica (como objetos/sujetos de estudio) y los resultados obtenidos.
+
+**Palabras clave**: Palabras referentes a elementos representativos de la práctica, separados por comas.
+
+# Abstract
+
+Mismo contenido que el resumen, sin embargo en inglés.
+
+**Keywords**: Mismo contenido que palabras clave pero en inglés.
+
+# Introducción
+
+Contenido que funciona como preambulo para el tronco del texto (resultados y discusión) generalmente contiene contexto y definiciones referenciadas respecto a los procesos que se experimentaron, sujetos utilizados (como reactivos/animales) o fenómenos explorados. No es usual acompañarlo de fotos, pero es probable respecto a las exigencias del profesorado.
+
+# Materiales y métodos
+
+Describe el proceso paso a paso y materiales utilizados druante la práctica, de tal forma que haya un registro de cómo se hizo lo que se presenta en los resultados de la práctica. Generalmente está acompañado de fotos.
+
+# Objetivos
+
+Describe el objetivo al que se pretende llegar durante la práctica, ya sea visualizar o medir un fenómeno, caracterizar a un nivel taxonómico un individuo o reconocer ciertas estructuras.
+
+## Objetivos específicos
+
+Una lista de objetivos especificos necesarios para alcanzar el objetivo general
+
+- **Objetivo 1:** Descripción
+
+- **Objetivo 2:** Descripción
+
+- **Objetivo 3:** Descripción
+
+# Resultados y discusión 
+
+Presenta los resultados obtenidos mediante fotografías y descripciones. Puede estar acompañado de esquemas y puede dividirse en varias secciones si es necesario utilizando textos de tercer nivel (los cuales puedes adjuntar con "### texto" si estas en el modo source.)
+
+### titulo de ejemplo de tercer nivel.
+
+# Conclusiones
+
+Concluye los resultados obtenidos durante la práctica, explicando el por qué de esos resultados y evaluando si son los esperados, en caso de no serlo, explicar las razones de este ultimo caso.
+
+Nota: En este documento no se encuentras referencias ya que no se usaron citas, por lo que no se imprimen y en cambio se ponen como comentario en el YAML header. 
