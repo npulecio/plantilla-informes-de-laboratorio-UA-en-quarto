@@ -2,20 +2,18 @@
 
 ## Installing
 
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
-
 ```bash
 quarto use template npulecio/plantilla_laboratorio_ua
 ```
 
-ESto instalará la plantilla y creará un .qmd de ejemplo que puedes usar para escribir tu documento. 
+Esto instalará la plantilla y creará un .qmd de ejemplo que puedes usar para escribir tu documento. 
 Tambien puedes usarla en un documento ya creado con;
 
 ```bash
 quarto use template npulecio/plantilla_laboratorio_ua
 ```
 
-## Using
+## Uso
 
 La plantilla está diseñada para ser utilizada como formato para informes de laboratorio y otras tareas similares para cualquier facultad de la
 universidad del atlántico, para este objetivo se crearon diversas variables que se pueden usar en el YAMl header y se modificaron otras.
