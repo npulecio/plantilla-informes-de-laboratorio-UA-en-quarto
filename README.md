@@ -3,11 +3,10 @@
 ## Installing
 
 ```bash
-quarto use template npulecio/plantilla_laboratorio_ua
+quarto use template npulecio/plantilla-informes-de-laboratorio-UA-en-quarto
 ```
 
 Esto instalará la plantilla y creará un .qmd de ejemplo que puedes usar para escribir tu documento. 
-
 
 ## Uso
 
