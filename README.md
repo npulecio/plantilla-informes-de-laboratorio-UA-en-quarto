@@ -7,11 +7,7 @@ quarto use template npulecio/plantilla_laboratorio_ua
 ```
 
 Esto instalará la plantilla y creará un .qmd de ejemplo que puedes usar para escribir tu documento. 
-Tambien puedes usarla en un documento ya creado con;
 
-```bash
-quarto use template npulecio/plantilla_laboratorio_ua
-```
 
 ## Uso
 
